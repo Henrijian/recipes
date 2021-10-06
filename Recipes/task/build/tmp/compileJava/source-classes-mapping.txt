@@ -1,0 +1,28 @@
+recipes/users/businesslayer/User.java
+ recipes.users.businesslayer.User
+recipes/businesslayer/Recipe.java
+ recipes.businesslayer.Recipe
+recipes/users/businesslayer/UserDetailsServiceImpl.java
+ recipes.users.businesslayer.UserDetailsServiceImpl
+recipes/users/presentation/UsersController.java
+ recipes.users.presentation.UsersController
+recipes/WebSecurityConfiguration.java
+ recipes.WebSecurityConfiguration
+recipes/users/persistence/UserRepository.java
+ recipes.users.persistence.UserRepository
+recipes/RecipesApplication.java
+ recipes.RecipesApplication
+recipes/businesslayer/RecipeService.java
+ recipes.businesslayer.RecipeService
+recipes/users/businesslayer/UserDetailsImpl.java
+ recipes.users.businesslayer.UserDetailsImpl
+recipes/persistence/RecipeRepository.java
+ recipes.persistence.RecipeRepository
+recipes/presentation/RecipesController.java
+ recipes.presentation.RecipesController
+recipes/users/businesslayer/UserDTO.java
+ recipes.users.businesslayer.UserDTO
+recipes/users/businesslayer/UserService.java
+ recipes.users.businesslayer.UserService
+recipes/AuthenticationFacade.java
+ recipes.AuthenticationFacade

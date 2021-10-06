@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    //put imports you need here
+
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: src/input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9261
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9261">JetBrains
+    Academy</a></html>
+  time: Mon, 02 Aug 2021 07:43:38 UTC
+record: -1
